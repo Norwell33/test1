@@ -1,0 +1,5 @@
+package testScala
+
+object newObject {
+
+}
